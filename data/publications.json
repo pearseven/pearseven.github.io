@@ -1,439 +1,136 @@
-[
-{ 
-"name":"Due to the double-blind rules of the conference, this information is not disclosed.", 
-"ref":"", 
-"conference":"SIGGRAPH Asia 2025 (Under review)", 
-"author":[
-    {
-        "name":"Zhiqi Li*"
-    },
-    {
-        "name":"Unknown*"
-    },
-    {
-        "name":"Unknown"
-    },
-    {
-        "name":"Unknown"
-    },
-    {
-        "name":"Unknown"
-    }
- ],
- "description":"Fluid simulation.  In this work, I propose the project and methods, and write code.",
- "cofirst":true
-},    
-{ 
-"name":"Improving Group Connectivity for Generalization of Federated Deep Learning", 
-"ref":"", 
-"conference":"SIGKDD 2025", 
-"author":[
-    {
-        "name":"Zexi Li*",
-        "ref":"https://zexilee.github.io/about-zexili/"
-    },
-    {
-        "name":"Jie Lin*"
-    },
-    {
-        "name":"Zhiqi Li*"
-    },
-    {
-        "name":"Didi Zhu"
-    },
-    {
-        "ref":"https://wuchaozju.github.io/",
-        "name":"Chao Wu"
-    }
- ],
- "description":"Theoretical analysis about linear mode connectivity in deep learning theory.",
- "cofirst":true
-},
-{ 
-    "name":"Fluid Simulation on Compressible Flow Maps", 
-    "ref":"", 
-    "conference":"SIGGRAPH,2025 (ACM Transactions on Graphics)", 
-    "author":[
-       {
-            "name":"Duowen Chen*"
-        },
-        {
-            "name":"Zhiqi Li*"
-        },
-        {
-            "name":"Taiyuan Zhang"
-        },
-        {
-            "name":"Jinjin He"
-        },
-        {
-            "name":"Junwei Zhou"
-        },
-        {
-            "name":"Bart G. Van Bloemen Waanders"
-        },
-        {
-            "name":"Bo Zhu"
-        }
-        ],
-        "description":"Fluid simulation.  In this work, I propose the project and methods, and write code.",
-        "cofirst":true
-},
-    { 
-    "name":"EDGE: Epsilon-Difference Gradient Evolution for Buffer-Free Flow Maps", 
-    "ref":"", 
-    "conference":"SIGGRAPH,2025  (ACM Transactions on Graphics)", 
-    "author":[
-        {
-            "name":"Zhiqi Li*"
-        },
-        {
-            "name":"Ruicheng Wang*"
-        },
-        {
-            "name":"Junlin Li*"
-        },
-        {
-            "name":"Duowen Chen"
-        },
-        {
-            "name":"Sinan Wang"
-        },
-            {
-            "name":"Bo Zhu"
-        }
-        ],
-        "description":"Fluid simulation.  In this work, I propose the project and methods, and write code.",
-        "cofirst":true
-},
-    { 
-    "name":"Clebsch Gauge Fluid on Particle Flow Maps", 
-    "ref":"", 
-    "conference":"SIGGRAPH,2025  (ACM Transactions on Graphics), Honorable Mention for Best Paper Award!", 
-    "author":[
-        {
-            "name":"Zhiqi Li"
-        },
-        {
-            "name":"Candong Lin"
-        },
-        {
-            "name":"Duowen Chen"
-        },
-        {
-            "name":"Xinyi Zhou"
-        },
-        {
-            "name":"Shiying Xiong"
-        },
-        {
-            "name":"Bo Zhu"
-        }
-        ],
-        "description":"Fluid simulation.  In this work, I propose the project and methods, and write code.",
-        "cofirst":false
-},
-    { 
-    "name":"A Fast Eulerian Impulse Method on Flow Maps", 
-    "ref":"", 
-    "conference":"SIGGRAPH,2025  (ACM Transactions on Graphics)", 
-    "author":[
-        {
-            "name":"Yuchen Sun"
-        },
-        {
-            "name":"Junlin Li"
-        },
-        {
-            "name":"Ruicheng Wang"
-        },
-        {
-            "name":"Sinan Wang"
-        },
-        {
-            "name":"Zhiqi Li"
-        },
-        {
-            "name":"Bart G. van Bloemen Waanders"
-        },
-        {
-            "name":"Bo Zhu"
-        }
-        ],
-        "description":"Fluid simulation. Help with theoretical analysis.",
-        "cofirst":false
-},
-    { 
-    "name":"Fluid Simulation on Vortex Particle Flow Maps", 
-    "ref":"", 
-    "conference":"SIGGRAPH,2025  (ACM Transactions on Graphics)", 
-    "author":[
-        {
-            "name":"Sinan Wang"
-        },
-        {
-            "name":"Junwei Zhou"
-        },
-        {
-            "name":"Fan Feng"
-        },
-        {
-            "name":"Zhiqi Li"
-        },
-        {
-            "name":"Yuchen Sun"
-        },
-        {
-            "name":"Duowen Chen"
-        },
-        {
-            "name":"Greg Turk"
-        },
-        {
-            "name":"Bo Zhu"
-        }
-        ],
-        "description":"Fluid simulation.  Help with theoretical analysis.",
-        "cofirst":false
-},
-{ 
-    "name":"Particle-Laden Fluid on Flow Maps", 
-    "ref":"", 
-    "conference":"SIGGRAPH Asia,2024 (ACM Transactions on Graphics) (Best Paper Award!)", 
-    "author":[
-        {
-            "name":"Zhiqi Li"
-        },
-        {
-            "name":"Duowen Chen"
-        },
-        {
-            "name":"Candong Lin"
-        },
-        {
-            "name":"Jinyuan Liu"
-        },
-        {
-            "name":"Bo Zhu"
-        }
-        ],
-        "description":"Fluid simulation.  In this work, I propose the project and methods, and write code.",
-        "cofirst":false
-},
-{ 
-    "name":"Solid-Fluid Interaction on Particle Flow Maps", 
-    "ref":"", 
-    "conference":"SIGGRAPH Asia,2024 (ACM Transactions on Graphics)", 
-    "author":[
-        {
-            "name":"Duowen Chen"
-        },
-        {
-            "name":"Zhiqi Li"
-        },
-        {
-            "name":"Junwei Zhou"
-        },
-        {
-            "name":"Fan Feng"
-        },
-        {
-            "name":"Tao Du"
-        },
-        {
-            "name":"Bo Zhu"
-        }
-        ],
-        "description":"Fluid simulation.  In this work, I assisted with the theoretical and methodological parts",
-        "cofirst":false
-},
-{ 
-"name":"Lagrangian Covector Fluid with Free Surface", 
-"ref":"https://zhiqili-cg.github.io/CovectorFluidFreeSurface/", 
-"conference":"SIGGRAPH,2024 (Dual Track)", 
-"author":[
-    {
-        "name":"Zhiqi Li"
-    },
-    {
-        "name":"Barney (Barnabás) Börcsök"
-    },
-    {
-        "name":"Duowen Chen"
-    },
-    {
-        "name":"Yutong Sun"
-    },
-    {
-        "ref":"https://faculty.cc.gatech.edu/~bozhu/",
-        "name":"Bo Zhu"
-    },
-    {
-        "ref":"https://faculty.cc.gatech.edu/~turk/",
-        "name":"Greg Turk"
-    }
- ],
- "description":"Fluid simulation.  In this work, I propose the project and methods, and write code.",
- "cofirst":false
-},
-{ 
-"name":"Swift Parameter-free Attention Network for Efficient Super-Resolution.", 
-"ref":"", 
-"conference":"CVPR workshop(NTIRE),2024", 
-"author":[
-    {
-        "name":"Cheng Wan*",
-        "ref":"https://jornywan.github.io/"
-    },
-    {
-        "name":"Hongyuan Yu*"
-    },
-    {
-        "name":"Zhiqi Li*",
-        "ref":"zhiqilicg.github.io"
-    },
-    {
-        "name":"Yihang Chen"
-    },
-    {
-        "name":"Yajun Zou"
-    },
-    {
-        "name":"Yuqing Liu"
-    },
-    {
-        "name":"Xuanwu Yin"
-    },
-    {
-        "name":"Kunlong Zuo"
-    }
- ],
- "description":"A swift parameter-free attention-based super-resolution achitecture.  In this work, I utilize knowledge of deep learning theory to validate and enhance network architectures.",
- "cofirst":true
-},
-{ 
-"name":"RemoteTouch: Enhancing Immersive 3D Video Communication with Hand Touch.", 
-"ref":"https://arxiv.org/abs/2302.14365", 
-"conference":"IEEE VR,2023", 
-"author":[
-    {
-        "name":"Yizhong Zhang*",
-        "ref":"https://www.microsoft.com/en-us/research/people/yizzhan/"
-    },
-    {
-        "name":"Zhiqi Li*",
-        "ref":"zhiqilicg.github.io"
-    },
-    {
-        "ref":"https://www.linkedin.com/in/sicheng-xu-b4b0a415b/?originalSubdomain=cn/",
-        "name":"Sicheng Xu"
-    },
-    {
-        "name":"Chong Li"
-    },
-    {
-        "ref":"https://jlyang.org",
-        "name":"Jiaolong Yang"
-    },
-    {
-        "name":"Xin Tong",
-        "ref":"https://www.microsoft.com/en-us/research/people/xtong/"
-    },
-    {
-        "name":"Baining Guo",
-        "ref":"https://www.microsoft.com/en-us/research/people/bainguo/"
-    }
- ],
- "description":" A immersive virtual-meeting system, with assistance of dual hand infomation, which is implemented by computer graphics techniques.",
- "cofirst":true
-},
-{ 
-"name":"Federated Learning with Label Distribution Skew via Logits Calibration.", 
-"ref":"https://proceedings.mlr.press/v162/zhang22p.html", 
-"conference":"ICML spotlight,2022", 
-"author":[
-    {
-        "name":"Jie Zhang",
-        "ref":"https://zj-jayzhang.github.io/"
-    },
-    {
-        "name":"Zhiqi Li",
-        "ref":"zhiqilicg.github.io"
-    },
-    {
-        "name":"Bo Li"
-    },
-    {
-        "name":"Jianghe Xu"
-    },
-    {
-        "name":"Shuang Wu"
-    },
-    {
-        "name":"Shouhong Ding"
-    },
-    {
-        "name":"Chao Wu",
-        "ref":"https://wuchaozju.github.io/"
-    }
- ],
- "description":"A federated method to tackle Non IID problem. In this work, I utilize knowledge of deep learning theory to validate the methods.",
- "cofirst":false
-},
-{ 
-"name":"Unveiling Linear Mode Connectivity of Re-basin from Neuron Distribution Perspective.", 
-"ref":"https://openreview.net/forum?id=RzOm9oOSzm&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)", 
-"conference":"preprint", 
-"author":[
-    {
-        "name":"Zhiqi Li*"
-    },
-    {
-        "ref":"https://zexilee.github.io/about-zexili/",
-        "name":"Zexi Li*"
-    },
-    {
-        "name":"Mian Wu*",
-        "ref":"https://www.linkedin.com/in/mian-wu-65264024b/"
-    },
-    {
-        "name":"Cheng Wan*",
-        "ref":"https://jornywan.github.io/"
-    },
-    {
-        "ref":"https://wuchaozju.github.io/",
-        "name":"Chao Wu"
-    }
- ],
- "description":"Theoretical analysis about linear mode connectivity in deep learning theory.  In this work, I propose the project, prove theorems and write code.",
- "cofirst":true
-},
-{ 
-"name":"Due to the double-blind rules of the conference, this information is not disclosed.", 
-"ref":"", 
-"conference":"preprint", 
-"author":[
-    {
-        "name":"Zexi Li",
-        "ref":"https://zexilee.github.io/about-zexili/"
-    },
-    {
-        "name":"Zhiqi Li"
-    },
-    {
-        "name":"Tao Shen",
-        "ref":"https://scholar.google.com/citations?user=MeaDj20AAAAJ&hl=zh-CN&authuser=1/"
-    },
-    {
-        "name":"Tao Lin",
-        "ref":"https://tlin-taolin.github.io/"
-    },
-    {
-        "ref":"https://wuchaozju.github.io/",
-        "name":"Chao Wu"
-    }
- ],
- "description":"Theoretical analysis about linear mode connectivity in deep learning theory.  In this work, I propose the project, prove theorems and write code.",
- "cofirst":false
-}
-]
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title>Zhiqi Li</title>
+
+    <meta name="author" content="Zhiqi Li">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    
+  </head>
+
+  <body>
+    <table  style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+      <tr style="padding:0px">
+        <td style="padding:0px">
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr style="padding:0px">
+              <td style="padding:2.5%;width:63%;vertical-align:middle">
+                <p class="name" style="text-align: center;">
+                  Zhiqi Li
+                </p>
+                <p>I'm a second-year Master's student in Computer Science (MSCS) at Georgia Tech,  supervised by Prof. Bo Zhu and Prof. Gred Turk, focusing on physical-based simulation in computer graphics.  I'm also interested in deep learning theory and seek to apply deep learning technique to physical-based simulation.  Previously, I was a research intern in Internet Graphics (IG) Group in Microsoft Research-Asian (MSRA) for one year supervised by Dr. Xing Tong and Dr. Yizhong Zhang, and I was also an research intern in Dartmouth College supervised by Prof. Bo Zhu since March 2021.
+                </p>
+                <p style="text-align:center">
+                  <a href="mailto:zhiqilich@gmail.com">Email</a> &nbsp;/&nbsp;
+                  <a href="mailto:zli3167@gatech.edu">Email</a> &nbsp;/&nbsp;
+                  <a href="https://scholar.google.com/citations?hl=en&user=gh_nHawAAAAJ">Scholar</a> &nbsp;/&nbsp;
+                  <a href="https://github.com/ZhiqiLi-CG/">Github</a>
+                </p>
+              </td>
+              <td style="padding:2.5%;width:40%;max-width:40%">
+                <a href="images/me.jpg"><img style="width:100%;max-width:100%;object-fit: cover; border-radius: 50%;" alt="profile photo" src="images/me.jpg" class="hoverZoomLink"></a>
+              </td>
+            </tr>
+          </tbody></table>
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+              <tr>
+              <td style="padding:20px;width:100%;vertical-align:middle">
+                <h2>Research Interests</h2>
+                <p>
+                  I'm interested in physical-based simulation in computer graphics, deep learning theory and its combination with physical-based simulation.
+                </p>
+              </td>
+            </tr>
+          </tbody></table>
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+              <tr>
+              <td style="padding:20px;width:100%;vertical-align:middle">
+                <h2>Awards</h2>
+                <p>
+                    SIGGRAPH Asia Best Paper Award (first author), 2024
+                </p>
+                <p>
+                    SIGGRAPH Honorable Mention for Best Paper Award (first author), 2025
+                </p>
+              </td>
+            </tr>
+          </tbody></table>          
+          <table id="publication_table" style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+              <td style="padding:20px;width:100%;vertical-align:middle">
+                <h2>Publications</h2>
+              </td>
+            </tr>
+            <!--
+
+
+            <tr>
+              <td>
+                <div class="svg-bar-chart">
+                  <svg style="height: 100%; width: 100%">
+                      <text id="svg-title" x="0" y="15">My Publications in Different Fields</text>
+                      <line x1="140" y1="50" x2="140" y2="160" stroke="black" stroke-width="1"></line>
+                      <line x1="220" y1="50" x2="220" y2="160" stroke="lightgray" stroke-width="0.5"></line>
+                      <line x1="300" y1="50" x2="300" y2="160" stroke="lightgray" stroke-width="1"></line>
+                      <line x1="380" y1="50" x2="380" y2="160" stroke="lightgray" stroke-width="0.5"></line>
+                      <line x1="460" y1="50" x2="460" y2="160" stroke="lightgray" stroke-width="1"></line>
+                      <line x1="540" y1="50" x2="540" y2="160" stroke="lightgray" stroke-width="0.5"></line>
+                      <line x1="620" y1="50" x2="620" y2="160" stroke="lightgray" stroke-width="1"></line>
+                      <line x1="700" y1="50" x2="700" y2="160" stroke="lightgray" stroke-width="0.5"></line>
+            
+                      <g class="svg-bars">
+                          <g transform="translate(50, 50)">
+                              <text x="70" y="15">Machine Learning</text>
+                              <rect x="90" y="0" width="400" height="20" fill="chocolate"></rect>
+                          </g>
+                          <g transform="translate(50, 80)">
+                              <text x="70" y="15">Computer Graphics</text>
+                              <rect x="90" y="0" width="160" height="20" fill="silver"></rect>
+                          </g>
+                          <g transform="translate(50, 110)">
+                              <text x="70" y="15">Virtual Reality</text>
+                              <rect x="90" y="0" width="80" height="20" fill="gold"></rect>
+                          </g>
+                          <g transform="translate(50, 140)">
+                              <text x="70" y="15">Total</text>
+                              <rect x="90" y="0" width="560" height="20" fill="whitesmoke"></rect>
+                          </g>
+                      </g>
+                      <g transform="translate(140, 180)" style="text-anchor: middle;">
+                          <text x="0">0</text>
+                          <text x="160">2</text>
+                          <text x="320">4</text>
+                          <text x="480">6</text>
+                      </g>
+                  </svg>
+              </div>
+              </td>
+            </tr>
+          -->
+            <script src="publication_list.js"></script>  
+            </tbody></table>
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+              <tr>
+              <td style="padding:20px;width:100%;vertical-align:middle">
+                <h2>Education</h2>
+                <p>
+                  2019 - 2023, Zhejiang University, BS in Mathematics and Applied Mathematics, BE in Computer Science
+                </p>
+                <p>
+                  2023 - 2025, Georgia Tech, Master in Computer Science
+                </p>
+                <p>
+                  2025 - 20xx, Georgia Tech, PhD in Computer Science
+                </p>
+              </td>
+            </tr>
+          </tbody></table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
